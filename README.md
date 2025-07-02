@@ -43,7 +43,7 @@ Para este projeto, a chave da API do OpenWeather está diretamente no código fo
 
 ## Screenshots
 
-![Tela principal do app](./screenshots/preview.png)
+![Tela principal do app](./screenshots/foto.png)
 
 ---
 

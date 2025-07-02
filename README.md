@@ -38,6 +38,7 @@ Para este projeto, a chave da API do OpenWeather está diretamente no código fo
 1. Abra o arquivo `index.html` em seu navegador.  
 2. Digite o nome da cidade desejada e clique no botão de busca.  
 3. Veja as informações do tempo atual para a cidade pesquisada.
+ou acesse (https://gustavo-pereira-carvalho.github.io/Weather-forecast/)
 
 ---
 
